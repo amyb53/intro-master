@@ -2,9 +2,10 @@
 # Code from 02-subsetting
 # library(ggplot2)
 
-x <- c(0, 0, 0, 0, 1, 0 ,0)
-y <- x
-y
+
+x <- c(0, 0, 0, 0, 1, 0 ,0) #x is a vector containing these values
+y <- x #y is now the same vector as x
+y #returns vector y
 
 # Subsetting
 
